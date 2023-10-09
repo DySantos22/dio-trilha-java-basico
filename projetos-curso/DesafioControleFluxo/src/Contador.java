@@ -29,7 +29,7 @@ public class Contador {
 		//realizar o for para imprimir os números com base na variável contagem
 
         for(int i = 1; i <= contagem; i++){
-            System.out.println("Numero: "+i);
+            System.out.println("Numero: "+i+".");
         }
 	}
 }

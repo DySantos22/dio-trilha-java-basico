@@ -1,3 +1,3 @@
 public class ParametrosInvalidosException extends Exception{
-    // Aqui é importado os Exceptions
+    // Aqui é importado os Exceptions existentes
 }
